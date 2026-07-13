@@ -1,13 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Mohammad Imran</h1>
-<h3 align="center">💻 Full Stack Web Developer | PHP & Laravel Specialist</h3>
+<h3 align="center">💻 Full Stack Web Developer | PHP & Laravel </h3>
 
 ---
 
 ### 🧠 About Me  
-I'm a passionate **Web Developer** with expertise in **Laravel**, **PHP**, **MySQL**, and **JavaScript**.  
-I enjoy building efficient, scalable, and elegant web applications — from eCommerce platforms to complex CRUD systems.  
-Currently, I'm sharpening my Laravel 11 skills by working on full-featured admin dashboards and API integrations.
+I am a Full-Stack Web Developer specializing in PHP, Laravel, node.js, express.js, and custom web solutions. I build dynamic websites, e-commerce platforms, and responsive user interfaces using modern technologies like bootstrap CSS, JavaScript, and SQL. I focus on creating fast, secure, scalable, and SEO-friendly applications while ensuring clean code and excellent performance.
 
 ---
 
