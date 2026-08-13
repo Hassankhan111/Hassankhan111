@@ -29,6 +29,68 @@ I am a Full-Stack Web Developer specializing in PHP, Laravel, node.js, express.j
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
+## 💼 Experience
+
+My professional journey in web development, software engineering, IT, data science, and AI.
+
+### 🚀 Junior Full Stack Web Developer — Pa Byta, Lahore, Pakistan
+
+**Jan 2023 – Present**
+
+- Developed responsive web applications using **HTML, Bootstrap, Vue.js, and jQuery**.
+- Built backend applications using **Laravel, AJAX, and MySQL**.
+- Designed user interfaces and prototypes using **Figma**.
+- Managed source code and team collaboration using **Git & GitHub**.
+- Prepared project reports and contributed to software development workflows.
+
+### 💻 AI Chatbot Integration Developer — Paragon, Full-time
+
+**May 2023 – Sep 2024**
+
+- Developed and integrated **AI-powered chatbots** into web applications.
+- Implemented **OpenAI API** integrations and AI-based solutions.
+- Worked on **email marketing and automation** systems.
+- Assisted with AI model training, testing, and deployment.
+- Managed projects, progress tracking, and technical reporting.
+
+### 🌐 Freelance Web Developer — Self-employed
+
+**May 2022 – Present**
+
+- Developed and maintained custom websites and web applications.
+- Designed and managed relational databases.
+- Integrated payment platforms including **Stripe, DonorBox, and PayPal**.
+- Implemented **SEO, Google Analytics, and website performance improvements**.
+- Managed client projects, monitoring, maintenance, and reporting.
+
+### 🧠 Data Science & AI — Riphah International University, Lahore, Pakistan
+
+**Jun 2022 – May 2024**
+
+- Performed **COVID-19 dataset analysis** and data preprocessing.
+- Applied **supervised and unsupervised machine learning** techniques.
+- Developed and evaluated machine learning models.
+- Created data visualizations and analytical reports.
+- Worked on AI model training, testing, and deployment.
+
+### 🛠️ Web Developer & Requirements Analyst — Abasyn Software House
+
+**Oct 2020 – Apr 2021**
+
+- Developed and maintained websites and web applications.
+- Integrated **APIs and online payment gateways**.
+- Gathered, analyzed, and documented software requirements.
+- Collaborated with development teams to translate business requirements into technical solutions.
+
+### ⚡ MERN Stack Developer — ARCH Technology, Remote
+
+**Mar 2019 – May 2019**
+
+- Developed and maintained web applications using the **MERN stack**.
+- Created responsive website designs and user interfaces.
+- Developed administrative dashboards and management systems.
+- Built and maintained **e-commerce websites**.
+
 ---
 
 ### 🧾 Featured Projects  
