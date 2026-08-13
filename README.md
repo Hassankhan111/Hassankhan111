@@ -1,122 +1,268 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Mohammad Imran</h1>
-<h3 align="center">💻 Full Stack Web Developer | PHP & Laravel </h3>
+# 👋 Hi, I'm Mohammad Imran
 
----
+<h3 align="center">💻 Full Stack Web Developer | PHP & Laravel | AI & Data Science</h3>
 
-### 🧠 About Me  
-I am a Full-Stack Web Developer specializing in PHP, Laravel, node.js, express.js, and custom web solutions. I build dynamic websites, e-commerce platforms, and responsive user interfaces using modern technologies like bootstrap CSS, JavaScript, and SQL. I focus on creating fast, secure, scalable, and SEO-friendly applications while ensuring clean code and excellent performance.
-
----
-
-### ⚙️ Tech Stack & Tools  
 <p align="center">
-  <!-- Laravel -->
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <!-- PHP -->
+  <a href="https://github.com/Hassankhan111">
+    <img src="https://img.shields.io/github/followers/Hassankhan111?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Hassankhan111&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a **Full Stack Web Developer** with professional experience in **PHP, Laravel, JavaScript, Node.js, Express.js, Vue.js, MySQL, and modern web technologies**.
+
+I specialize in building **scalable web applications, e-commerce platforms, APIs, payment integrations, dashboards, AI-powered solutions, and responsive user interfaces**.
+
+I also have experience in **Data Science, Machine Learning, AI chatbot integration, OpenAI APIs, SEO, automation, and project management**.
+
+My development philosophy is simple:
+
+> **Clean code. Secure systems. Scalable solutions. Great user experiences.**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <!-- Bootstrap -->
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/AJAX-%2300768A.svg?style=for-the-badge" alt="AJAX"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+### 🗄️ Database & Development Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## 💼 Experience
+### 🤖 AI & Data Science
 
-My professional journey in web development, software engineering, IT, data science, and AI.
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data%20Science-%23013243.svg?style=for-the-badge" alt="Data Science"/>
+</p>
 
-### 🚀 Junior Full Stack Web Developer — Pa Byta, Lahore, Pakistan
+---
 
-**Jan 2023 – Present**
+# 💼 Professional Experience
 
-- Developed responsive web applications using **HTML, Bootstrap, Vue.js, and jQuery**.
-- Built backend applications using **Laravel, AJAX, and MySQL**.
-- Designed user interfaces and prototypes using **Figma**.
-- Managed source code and team collaboration using **Git & GitHub**.
-- Prepared project reports and contributed to software development workflows.
+### 🚀 Junior Full Stack Web Developer — Pa Byta
 
-### 💻 AI Chatbot Integration Developer — Paragon, Full-time
+**Lahore, Pakistan · Jan 2023 – Present**
 
-**May 2023 – Sep 2024**
+* Develop responsive web applications using **HTML, Bootstrap, Vue.js, and jQuery**.
+* Build backend applications using **Laravel, AJAX, and MySQL**.
+* Design user interfaces and prototypes using **Figma**.
+* Manage source code and team collaboration using **Git & GitHub**.
+* Prepare technical reports and contribute to software development workflows.
 
-- Developed and integrated **AI-powered chatbots** into web applications.
-- Implemented **OpenAI API** integrations and AI-based solutions.
-- Worked on **email marketing and automation** systems.
-- Assisted with AI model training, testing, and deployment.
-- Managed projects, progress tracking, and technical reporting.
+### 🤖 AI Chatbot Integration Developer — Paragon
 
-### 🌐 Freelance Web Developer — Self-employed
+**Full-time · May 2023 – Sep 2024**
 
-**May 2022 – Present**
+* Developed and integrated **AI-powered chatbots** into web applications.
+* Implemented **OpenAI API integrations** and AI-based solutions.
+* Developed **email marketing and automation** workflows.
+* Worked with AI model training, testing, and deployment.
+* Managed project progress, reporting, and technical documentation.
 
-- Developed and maintained custom websites and web applications.
-- Designed and managed relational databases.
-- Integrated payment platforms including **Stripe, DonorBox, and PayPal**.
-- Implemented **SEO, Google Analytics, and website performance improvements**.
-- Managed client projects, monitoring, maintenance, and reporting.
+### 🌐 Freelance Full Stack Web Developer
 
-### 🧠 Data Science & AI — Riphah International University, Lahore, Pakistan
+**Self-employed · May 2022 – Present**
 
-**Jun 2022 – May 2024**
+* Develop and maintain custom websites and web applications.
+* Design and manage relational databases.
+* Integrate payment platforms including **Stripe, DonorBox, and PayPal**.
+* Implement **SEO, analytics, and website performance improvements**.
+* Manage client projects, maintenance, monitoring, and reporting.
 
-- Performed **COVID-19 dataset analysis** and data preprocessing.
-- Applied **supervised and unsupervised machine learning** techniques.
-- Developed and evaluated machine learning models.
-- Created data visualizations and analytical reports.
-- Worked on AI model training, testing, and deployment.
+### 🧠 Data Science & AI — Riphah International University
+
+**Lahore, Pakistan · Jun 2022 – May 2024**
+
+* Performed **COVID-19 dataset analysis** and data preprocessing.
+* Applied **supervised and unsupervised machine learning** techniques.
+* Developed and evaluated machine learning models.
+* Created data visualizations and analytical reports.
+* Worked on AI model training, testing, and deployment.
 
 ### 🛠️ Web Developer & Requirements Analyst — Abasyn Software House
 
 **Oct 2020 – Apr 2021**
 
-- Developed and maintained websites and web applications.
-- Integrated **APIs and online payment gateways**.
-- Gathered, analyzed, and documented software requirements.
-- Collaborated with development teams to translate business requirements into technical solutions.
+* Developed and maintained websites and web applications.
+* Integrated **APIs and payment gateways**.
+* Gathered, analyzed, and documented software requirements.
+* Collaborated with development teams to translate business requirements into technical solutions.
 
-### ⚡ MERN Stack Developer — ARCH Technology, Remote
+### ⚡ MERN Stack Developer — ARCH Technology
 
-**Mar 2019 – May 2019**
+**Remote · Mar 2019 – May 2019**
 
-- Developed and maintained web applications using the **MERN stack**.
-- Created responsive website designs and user interfaces.
-- Developed administrative dashboards and management systems.
-- Built and maintained **e-commerce websites**.
-
----
-
-### 🧾 Featured Projects  
-- 🛍️ **Laravel eCommerce System** – Advanced shopping cart, product CRUD, and admin panel.  
-- 🧾 **Brand Management CRUD** – Laravel system for managing brands with image upload.  
-- 🏫 **School Management System** – Multi-role access for teachers, clerks, and admins.
+* Developed and maintained web applications using the **MERN stack**.
+* Created responsive website designs and user interfaces.
+* Developed administrative dashboards.
+* Built and maintained **e-commerce websites**.
 
 ---
 
-### 📫 Contact Information  
-📧 **Email:** [armanimran240@gmail.com](mailto:armanimran240@gmail.com)  
-💻 **GitHub:** [github.com/Hassankhan111](https://github.com/Hassankhan111)  
-📱 **Phone:** +92 304 5975010  
+# 📌 Featured Projects
+
+### 🛒 Laravel eCommerce System
+
+Advanced e-commerce platform featuring:
+
+* Product management
+* Shopping cart
+* User authentication
+* Admin dashboard
+* Product CRUD operations
+* Database management
+
+### 🏷️ Brand Management System
+
+Laravel-based management system featuring:
+
+* Brand CRUD
+* Image uploads
+* Database relationships
+* Admin management
+* Responsive interface
+
+### 🏫 School Management System
+
+Multi-role school management platform supporting:
+
+* 👨‍🏫 Teachers
+* 👨‍💼 Clerks
+* 👨‍💻 Administrators
+* Student and academic management
+* Role-based access control
 
 ---
 
-### 🌱 More About Me  
-- 🔥 Always exploring new Laravel features and backend optimization techniques  
-- 🤝 Open to collaborations on PHP/Laravel-based projects  
-- 🎯 Focused on writing clean, reusable, and maintainable code  
+# 💳 Payment & API Integrations
+
+Experienced in integrating third-party APIs and payment services, including:
+
+* **Stripe**
+* **PayPal**
+* **DonorBox**
+* **OpenAI APIs**
+* REST APIs
+* Payment gateway integrations
+* AJAX-based API communication
 
 ---
 
-### ⚡ Fun Quote  
-> “The best way to predict the future is to code it.”
+# 📊 GitHub Statistics
 
 <p align="center">
-  ⭐ **If you like my work, please consider giving my repositories a star!**
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassankhan111&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohammad Imran GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassankhan111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassankhan111&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 🎯 What I Do
+
+```text
+🌐 Full Stack Web Development
+⚙️ PHP & Laravel Development
+🟢 Node.js & Express.js Development
+🖥️ Vue.js Frontend Development
+🛒 E-Commerce Development
+🔌 REST API Development & Integration
+💳 Payment Gateway Integration
+🤖 AI & Chatbot Integration
+📊 Data Science & Machine Learning
+🔍 SEO & Website Optimization
+🗄️ Database Design & Management
+🚀 Deployment & Project Maintenance
+```
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced **Laravel architecture**
+* Modern **JavaScript & Node.js**
+* AI-powered application development
+* **Machine Learning & Data Science**
+* Cloud and scalable application architecture
+* Web application security and performance optimization
+
+---
+
+# 🤝 Open to Collaboration
+
+I'm interested in collaborating on:
+
+* 🚀 Laravel & PHP projects
+* 🌐 Full Stack web applications
+* 🛒 E-commerce platforms
+* 🤖 AI-powered applications
+* 🔌 API integrations
+* 📊 Data Science & Machine Learning projects
+* 💡 Open-source projects
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:armanimran240@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Hassankhan111">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+📧 **Email:** [armanimran240@gmail.com](mailto:armanimran240@gmail.com)
+💻 **GitHub:** github.com/Hassankhan111
+📱 **Phone:** +92 304 5975010
+
+---
+
+## ⚡ Fun Fact
+
+> I believe great software isn't just about making things work — it's about making them **secure, scalable, maintainable, and enjoyable to use.**
+
+<p align="center">
+  <b>⭐ If you find my projects useful, consider giving them a star!</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
 </p>
